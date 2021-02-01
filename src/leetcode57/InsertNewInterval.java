@@ -22,7 +22,7 @@ public class InsertNewInterval {
 			i++;
 		}
 
-		// Add the new insert new interval now
+		// Insert the new interval
 		result.add(newInterval);
 
 		// Add the rest of the unused interval into result
